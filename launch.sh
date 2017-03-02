@@ -145,5 +145,5 @@ else
  
  echo "Anti CRASH server is : ON"
  
-  ./tg/bin/telegram-cli -k ./tg/tg-server.pub -s ./VIPTEAM/VIPTEAM.lua -l 1 -E
+  ./tg/bin/telegram-cli -k ./tg/tg-server.pub -s ./THETETOO_A9A/THETETOO_A9A.lua -l 1 -E
 fi
